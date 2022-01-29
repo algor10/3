@@ -155,12 +155,12 @@ body {
 }
 
 .list .item::marker{
-  color: #333;
+  color: #3f2aff;
 }
 
 .item{
    margin-bottom: 20px;
-   border-bottom: 1px solid #3f2aff;
+   text-decoration: underline;
    font-size: 20px;
    color: #3f2aff;
 }
@@ -189,11 +189,10 @@ body {
 .sign{
   border: 1px solid #b6b6b6;
   border-top: none;
-  padding: 0 19;
   font-weight: 400;
   font-size: 14px;
   text-align: center;
-}
+  }
 
 .figure .img{
   margin-bottom: 0;
